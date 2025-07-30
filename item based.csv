@@ -1,0 +1,201 @@
+UserID,SkincareID,Cocok/Tidak,Rating
+1,1,Cocok,3
+2,1,Cocok,3
+3,1,Tidak Cocok,2
+4,1,Cocok,5
+5,1,Tidak Cocok,2
+6,1,Cocok,4
+7,1,Cocok,3
+8,1,Cocok,5
+9,1,Tidak Cocok,2
+10,1,Cocok,5
+11,1,Tidak Cocok,2
+12,1,Tidak Cocok,1
+13,1,Cocok,3
+14,1,Tidak Cocok,2
+15,1,Cocok,5
+16,1,Cocok,5
+17,1,Cocok,4
+18,1,Tidak Cocok,2
+19,1,Tidak Cocok,1
+20,1,Cocok,3
+1,2,Tidak Cocok,1
+2,2,Cocok,3
+3,2,Cocok,4
+4,2,Cocok,5
+5,2,Cocok,4
+6,2,Cocok,4
+7,2,Tidak Cocok,2
+8,2,Cocok,4
+9,2,Tidak Cocok,2
+10,2,Cocok,4
+11,2,Cocok,3
+12,2,Cocok,3
+13,2,Tidak Cocok,1
+14,2,Cocok,4
+15,2,Cocok,5
+16,2,Cocok,4
+17,2,Cocok,5
+18,2,Cocok,3
+19,2,Tidak Cocok,1
+20,2,Cocok,4
+1,3,Tidak Cocok,2
+2,3,Cocok,4
+3,3,Cocok,5
+4,3,Cocok,3
+5,3,Cocok,4
+6,3,Tidak Cocok,1
+7,3,Tidak Cocok,2
+8,3,Cocok,4
+9,3,Tidak Cocok,2
+10,3,Cocok,5
+11,3,Cocok,4
+12,3,Cocok,3
+13,3,Tidak Cocok,2
+14,3,Cocok,4
+15,3,Cocok,5
+16,3,Cocok,4
+17,3,Cocok,3
+18,3,Cocok,5
+19,3,Tidak Cocok,2
+20,3,Cocok,5
+1,4,Tidak Cocok,1
+2,4,Cocok,4
+3,4,Cocok,5
+4,4,Cocok,3
+5,4,Cocok,4
+6,4,Cocok,5
+7,4,Tidak Cocok,2
+8,4,Cocok,4
+9,4,Tidak Cocok,2
+10,4,Cocok,4
+11,4,Cocok,5
+12,4,Cocok,5
+13,4,Tidak Cocok,1
+14,4,Cocok,4
+15,4,Cocok,3
+16,4,Cocok,5
+17,4,Cocok,4
+18,4,Tidak Cocok,1
+19,4,Tidak Cocok,1
+20,4,Cocok,5
+1,5,Cocok,4
+2,5,Cocok,5
+3,5,Cocok,5
+4,5,Tidak Cocok,2
+5,5,Tidak Cocok,2
+6,5,Tidak Cocok,1
+7,5,Cocok,4
+8,5,Tidak Cocok,2
+9,5,Cocok,3
+10,5,Tidak Cocok,1
+11,5,Cocok,4
+12,5,Cocok,5
+13,5,Cocok,4
+14,5,Cocok,3
+15,5,Tidak Cocok,2
+16,5,Tidak Cocok,2
+17,5,Cocok,4
+18,5,Cocok,5
+19,5,Cocok,4
+20,5,Cocok,5
+1,6,Cocok,4
+2,6,Tidak Cocok,2
+3,6,Cocok,4
+4,6,Cocok,5
+5,6,Cocok,5
+6,6,Tidak Cocok,2
+7,6,Cocok,4
+8,6,Cocok,5
+9,6,Cocok,4
+10,6,Cocok,5
+11,6,Cocok,3
+12,6,Tidak Cocok,1
+13,6,Cocok,4
+14,6,Cocok,5
+15,6,Cocok,4
+16,6,Cocok,5
+17,6,Cocok,5
+18,6,Tidak Cocok,1
+19,6,Cocok,3
+20,6,Cocok,3
+1,7,Cocok,4
+2,7,Cocok,4
+3,7,Tidak Cocok,2
+4,7,Cocok,5
+5,7,Tidak Cocok,2
+6,7,Tidak Cocok,2
+7,7,Cocok,5
+8,7,Cocok,5
+9,7,Cocok,4
+10,7,Cocok,4
+11,7,Tidak Cocok,2
+12,7,Cocok,5
+13,7,Tidak Cocok,1
+14,7,Cocok,5
+15,7,Cocok,4
+16,7,Tidak Cocok,2
+17,7,Tidak Cocok,2
+18,7,Tidak Cocok,1
+19,7,Cocok,5
+20,7,Tidak Cocok,3
+1,8,Tidak Cocok,1
+2,8,Cocok,3
+3,8,Cocok,4
+4,8,Cocok,4
+5,8,Tidak Cocok,2
+6,8,Cocok,5
+7,8,Cocok,5
+8,8,Cocok,5
+9,8,Cocok,4
+10,8,Cocok,4
+11,8,Tidak Cocok,2
+12,8,Tidak Cocok,2
+13,8,Tidak Cocok,1
+14,8,Cocok,4
+15,8,Cocok,3
+16,8,Cocok,4
+17,8,Cocok,3
+18,8,Cocok,4
+19,8,Tidak Cocok,2
+20,8,Tidak Cocok,2
+1,9,Tidak Cocok,1
+2,9,Cocok,3
+3,9,Cocok,4
+4,9,Cocok,4
+5,9,Cocok,5
+6,9,Tidak Cocok,2
+7,9,Tidak Cocok,2
+8,9,Cocok,4
+9,9,Tidak Cocok,2
+10,9,Cocok,4
+11,9,Cocok,4
+12,9,Tidak Cocok,2
+13,9,Tidak Cocok,2
+14,9,Cocok,5
+15,9,Cocok,5
+16,9,Cocok,5
+17,9,Tidak Cocok,2
+18,9,Tidak Cocok,1
+19,9,Tidak Cocok,1
+20,9,Cocok,4
+1,10,Tidak Cocok,2
+2,10,Tidak Cocok,2
+3,10,Cocok,3
+4,10,Cocok,4
+5,10,Cocok,3
+6,10,Cocok,4
+7,10,Tidak Cocok,2
+8,10,Cocok,5
+9,10,Cocok,4
+10,10,Cocok,5
+11,10,Cocok,4
+12,10,Tidak Cocok,2
+13,10,Tidak Cocok,3
+14,10,Cocok,4
+15,10,Cocok,4
+16,10,Cocok,5
+17,10,Tidak Cocok,2
+18,10,Cocok,5
+19,10,Tidak Cocok,2
+20,10,Cocok,4
