@@ -20,14 +20,9 @@ def item_based_recommender(product_name, data):
 # Streamlit App
 st.title("Sistem Rekomendasi Produk Kecantikan")
 
-# User input for User ID at the top
-user_id = st.number_input("Masukkan ID Pengguna", min_value=1, step=1)
-
+skin_type = st.selectbox("Pilih Jenis Kulit", merged_df['Tipe Kulit'].unique())  # Adjust if needed
 # User input for selecting a product
 product_name = st.selectbox("Pilih Produk", merged_df['Nama'].unique())  # Adjust if needed
-
-# User input for selecting a jenis kulit
-skin_type = st.selectbox("Pilih Jenis Kulit", merged_df['Tipe Kulit'].unique())  # Adjust if needed
 
 # Option to get recommendations
 if st.button('Rekomendasikan'):
@@ -41,10 +36,3 @@ if st.button('Rekomendasikan'):
         st.write("Top 10 recommended products:")
         st.dataframe(recommendations_df)  # Display recommendations in a table format
 
-# Get the user’s past ratings for products (if available)
-user_data = merged_df[merged_df['UserID'] == user_id]
-if not user_data.empty:
-    st.write("Your past ratings:")
-    st.dataframe(user_data[['Nama', 'Rating']])  # Adjust if needed
-else:
-    st.write("No previous ratings found for this User ID.")
